@@ -26,8 +26,8 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
   <a href="https://www.instagram.com/_febrinh" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-<a href="https://febridev.web.id" target="_blank">
-  <img align="center" src="https://febridev.web.id/assets/febri.jpg" alt="Website" height="30" width="40" />
+<a href="https://portofoliofebri.vercel.app/" target="_blank">
+  <img align="center" src="https://portofoliofebri.vercel.app/assets/febri.jpg" alt="Website" height="30" width="40" />
 </a>
 </p>
 
