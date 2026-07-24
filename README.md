@@ -48,7 +48,7 @@ Meskipun masih dalam proses belajar, saya memiliki semangat besar untuk terus be
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/username" target="_blank" title="GitHub">
+  <a href="https://github.com/febrinurhidayat" target="_blank" title="GitHub">
   <img     src="https://camo.githubusercontent.com/17c6678497cdbddb3eb61ebf55ae02613663d3d0e842284573fd86d54bed7400/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c6162656c3d" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=" style="max-width: 100%;">
   </a>
 
